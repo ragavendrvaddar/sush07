@@ -1,0 +1,156 @@
+<html>
+<head>
+    
+      <title>travelbook</title>
+     
+  </head> 
+
+  <body bgcolor="purple">
+
+  <center>
+
+  <fontsize="color="yellow">mytravel bookwebsite</font>
+
+  <fontsize="4"color="yellow">
+
+  <marquee.welcome to my travel book ifframe website</marquee><br>
+
+  <iforme src="framel.html"name="f1"style="width:30%;height:80%;"></iframe>
+
+  <iforme src="frame2.html"name="f2" style="width:65%;height:80%;"></iframe>
+  
+  <marquee>contect for more details:shri.annappa kyamangol,lecturer/cse,
+      
+          goverment polytechnic,athani</marquee>
+
+  </font>
+
+  </center>
+  
+  </body> 
+  
+  </html>
+  
+  <html><body bgcolor="lightpint">
+  
+  <font size="6">
+
+  <centr>
+  
+  <tabl eborder=2bordercolor="blue" cellpadding="10">
+
+  <tr>
+  
+  <th bgcolor="lightgreen">8*tourist places*</th>
+
+  </tr>
+ 
+  <tr>
+ 
+  <td><a href="gokak.html"target="f2">gokak falls</a></td>
+
+  </tr>
+
+  <tr> 
+  
+  <td><a href="mysore.html"target="f2">mysore palace</a></td>
+  
+  </tr>
+
+  <tr>
+  
+  <td><ahref="bijapur.html"targer="f2">bijapur gumbaz</a></td>
+ 
+  </tr>
+  
+  <tr>
+  
+  <td><ahref="badami.html"targer="f2">badami caver</a></td>
+  
+  </tr>
+ 
+  <tr>
+  
+  <td><a href="contact.html"targer="f2">contact details</a></td>
+
+  </tr>
+  
+  </table>
+ 
+  </center>
+ 
+  </font> 
+   
+  </body>
+ 
+  </html>
+
+  <htyml>
+
+  <bodybgcolor="lightpink">
+
+ </body>
+
+ </html>
+
+ <html>
+
+ <body>
+
+ <center><font color="white">
+
+ <hl>gokakfalls</hl>
+
+ </font>
+
+ <img src="gokak.jpg"width="400"height="200">
+  
+ <table border="2"cellpadding="20">
+
+ <caption>
+
+<font></caption>
+
+ <tr bgcolor="yellow">
+
+ <th>food</th>
+
+ <th>halt</th>
+
+ <th>guide</th>
+
+ <th>tourist bus</th>
+
+ </tr>
+
+ <tr bgcolor="lightyellow">
+ 
+ <td>available</td>
+
+ <td>available</td>
+ 
+ <td>available</td>
+  
+ <td>available</td>
+
+ </tr>
+ 
+ </table>
+ 
+ </center>
+
+ </body>
+ 
+ </html> 
+ 
+ <html>
+
+ <body>
+
+ <center><font color="white">
+
+ <hl>mysore palace</hl>
+
+ </font>
+
+                   
